@@ -1,16 +1,22 @@
-## Hi there 👋
+# Hi there, I'm Malu 👋
+🔹 AI/ML Enthusiast | 📡 IoT Developer | 🎯 Final Year ECE Student  
 
-<!--
-**MalooD-Lu/MalooD-Lu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 About Me  
+💡 Passionate about **AI, Machine Learning, and IoT-based solutions**.  
+🔬 Worked on **Zebrafish Tracking, OTFS modulation using quantum computing, IoT-based Beekeeping Technology, and detection of DFU**.  
+📚 Currently exploring **MongoDB for ML pipelines and cloud deployment**.  
 
-Here are some ideas to get you started:
+## 🛠 Tech Stack  
+💻 Python | C++ | MATLAB | Flask | MongoDB  | Java
+📊 AI/ML | IoT | Data Analytics  | DSA
+📡 OTFS | Wireless Communication | OpenCV  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📌 Projects  
+- 🐝 **IoT-Based Beekeeping** | Smart monitoring for honey production  
+- 🚀 **OTFS Performance Analysis** | 6G communication research  
+- 🎥 **Zebrafish Tracking** | Behavioral analysis and tracking of zebrafish through dual-camera systems  
+
+## 📬 Let's Connect!  
+💼 [LinkedIn]([https://www.linkedin.com/in/malavika-dilu/) |  📧 Email: dilumalavika@gmail.com  
+
+---
