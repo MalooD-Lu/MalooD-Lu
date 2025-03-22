@@ -20,9 +20,17 @@
   
 - 🚀 **OTFS Performance Analysis** | 6G communication research
   
-- 🎥 **Zebrafish Tracking** | Behavioral analysis and tracking of zebrafish through dual-camera systems  
+- 🎥 **Zebrafish Tracking** | Behavioral analysis and tracking of zebrafish through dual-camera systems
+
+## GitHub Stats
+
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=MalooD-Lu&show_icons=true&theme=aura)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MalooD-Lu&layout=compact&theme=aura)
+
+
 
 ## 📬 Let's Connect!  
-💼 [LinkedIn]([https://www.linkedin.com/in/malavika-dilu/) |  📧 Email: dilumalavika@gmail.com  
+💼 [LinkedIn](https://www.linkedin.com/in/malavika-dilu/) |  📧 Email: dilumalavika@gmail.com  
 
 ---
