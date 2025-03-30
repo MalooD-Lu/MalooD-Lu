@@ -26,7 +26,8 @@
 
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=MalooD-Lu&show_icons=true&theme=aura)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MalooD-Lu&layout=compact&theme=aura)
+![Languages Used](https://github-readme-stats.vercel.app/api/top-langs/?username=MalooD-Lu&layout=compact&langs_count=100&theme=aura)
+
 
 
 
