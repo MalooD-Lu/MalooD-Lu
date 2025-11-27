@@ -1,5 +1,5 @@
 # Hi there, I'm Malu 👋
-🔹 AI/ML Enthusiast | 📡 IoT Developer | 🎯 Final Year ECE Student  
+🔹 AI/ML Enthusiast | 📡 IoT Developer | 🎯 Electronics and Communication Engineering Graduate 
 
 ## 🚀 About Me  
 💡 Passionate about **AI, Machine Learning, and IoT-based solutions**.  
